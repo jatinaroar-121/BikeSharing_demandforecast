@@ -1,10 +1,10 @@
 # Demand forecasting for shared bikes
-> In this project we want to understand the demand for a bike sharing platform. On the basis historical dataset we want to find the factors that affect demand and will help us predict it. We can further use this knowledge to prepare and plan for the future demand and maximize the profit.
+> In this project we want to understand the demand for a bike sharing platform. On the basis of historical dataset we want to find the factors that affect demand and will help us predict it. We can further use this knowledge to prepare and plan for the future demand and maximize the profit.
 
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used](#technologies-used)
 * [Conclusions](#conclusions)
+* [Technologies Used](#technologies-used)
 
 ## General Information
 - BoomBikes is a US based bike sharing platform that allows customers to borrow bikes from the dock for a price by entering their payment information. The bike can then be returned to another dock belonging to company.
