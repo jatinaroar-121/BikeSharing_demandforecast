@@ -1,5 +1,5 @@
 # Demand forecasting for shared bikes
-> In this project we want to understand the demand for a bike sharing platform. On the basis of historical dataset we want to find the factors that affect demand and will help us predict it. We can further use this knowledge to prepare and plan for the future demand and maximize the profit.
+> In this project we want to understand the demand for a bike sharing platform. On the basis of historical dataset we want to find the factors that affect demand and will help us predict it. We can further use this knowledge to prepare and plan for the future demand and maximize profits.
 
 ## Table of Contents
 * [General Info](#general-information)
